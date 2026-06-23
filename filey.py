@@ -1,4 +1,4 @@
-file =open ("notes.txt" , "a")
+file =open ("notes.txt" , "a")  #not preferred way
 file.write("\nMy name is lulu")
 file.close()
 
