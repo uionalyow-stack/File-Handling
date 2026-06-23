@@ -1,5 +1,5 @@
 file =open ("notes.txt" , "a")  #not preferred way
-file.write("\nMy name is lulu")
+file.write("\nMy name is lulu") #changess the file to append mode
 file.close()
 
 
